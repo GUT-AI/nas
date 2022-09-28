@@ -15,3 +15,7 @@ References
 
 See also `Awesome-AutoML-Papers#Arcitecture-Search <https://github.com/hibayesian/awesome-automl-papers#architecture-search>`_
 
+**2019**
+
+- `Neural Architecture Search: A Survey <https://arxiv.org/pdf/1808.05377.pdf>`_
+
