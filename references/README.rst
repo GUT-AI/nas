@@ -14,7 +14,7 @@ References
 |
 
 See also `Awesome-AutoML-Papers#Arcitecture-Search <https://github.com/hibayesian/awesome-automl-papers#architecture-search>`_. |br|
-See also `AutoML <https://github.com/GUT-AI/auto-ml/blob/master/references/README.rst>`_
+See also `AutoML <https://github.com/GUT-AI/auto-ml/blob/master/references/README.rst>`_.
 
 Surveys
 -------
