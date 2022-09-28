@@ -12,3 +12,6 @@ References
 .. contents:: **Table of Contents**
 
 |
+
+See also `Awesome-AutoML-Papers#Arcitecture-Search <https://github.com/hibayesian/awesome-automl-papers#architecture-search>`_
+
